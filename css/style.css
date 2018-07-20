@@ -1,0 +1,9 @@
+html, body{
+    margin: 0;
+    width: 100%;
+    overflow: hidden
+}
+
+#myCanvas{
+    max-width: 100%
+}
